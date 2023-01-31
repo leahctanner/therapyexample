@@ -1,0 +1,501 @@
+﻿id,age,gender,race,education,state,salary,datejoined,datelastsession,nosessions,sessionlength,trigger,evermed,baselinestress,laststress,therapist,texperience
+1,21,male,Black,Associates,NY,41771,"Wednesday, September 29, 2021","Sunday, September 11, 2022",6,37,Loss,0,9,1,6,2
+2,37,female,White,Bachelors,NJ,53566,"Saturday, May 8, 2021","Saturday, May 14, 2022",2,59,Loss,0,10,7,1,4
+3,27,female,White,Associates,CT,87142,"Monday, July 19, 2021","Monday, May 16, 2022",12,98,Loss,0,8,5,4,20
+4,29,female,Indigenous,High School Diploma,NY,32421,"Thursday, February 18, 2021","Saturday, October 29, 2022",25,66,Unspecified,0,7,7,6,2
+5,27,nonbiry,White,Bachelors,,73544,"Saturday, October 16, 2021","Monday, September 26, 2022",32,121,Loss,0,9,3,4,20
+6,26,female,White,High School Diploma,NY,55842,"Thursday, January 28, 2021","Saturday, April 2, 2022",12,35,Financial,1,8,1,4,20
+7,32,female,White,Bachelors,NY,82930,"Sunday, July 18, 2021","Sunday, January 9, 2022",31,39,Financial,0,6,6,2,11
+8,30,female,Hispanic,High School Diploma,NY,52058,"Saturday, January 16, 2021","Friday, September 9, 2022",24,50,Loss,0,6,6,4,20
+9,31,male,Hispanic,Masters,NY,110223,"Friday, July 23, 2021","Monday, October 10, 2022",13,52,,0,7,5,1,4
+10,31,male,White,,NY,45880,"Wednesday, October 6, 2021","Wednesday, October 19, 2022",17,51,Financial,0,6,7,5,14
+11,26,male,White,Bachelors,NY,88344,"Friday, December 17, 2021","Tuesday, July 19, 2022",32,46,Dispute,0,6,5,3,7
+12,33,female,Indigenous,Bachelors,NJ,55647,"Sunday, January 3, 2021","Wednesday, August 3, 2022",4,119,Loss,0,10,2,2,11
+13,,male,Black,Bachelors,NJ,62379,"Saturday, January 16, 2021","Monday, May 23, 2022",8,106,Dispute,1,8,5,1,4
+14,33,nonbiry,Hispanic,Bachelors,NY,107342,"Saturday, October 2, 2021","Tuesday, April 26, 2022",21,25,Financial,0,6,1,6,2
+15,26,male,Asian,Bachelors,CT,,"Wednesday, March 10, 2021","Saturday, September 24, 2022",17,91,Financial,0,8,7,6,2
+16,33,female,White,Associates,CT,54857,"Friday, April 2, 2021","Friday, April 1, 2022",6,39,Financial,0,8,5,3,7
+17,30,female,Asian,Bachelors,CT,113926,"Monday, September 20, 2021","Friday, May 20, 2022",20,43,Dispute,0,8,3,3,7
+18,32,male,Indigenous,High School Diploma,NJ,33390,"Sunday, March 21, 2021","Wednesday, February 23, 2022",7,88,Financial,0,10,5,4,20
+19,26,female,Asian,Bachelors,CT,53619,"Wednesday, May 12, 2021","Tuesday, April 26, 2022",17,63,Unspecified,0,6,7,2,11
+20,34,female,Asian,Masters,NY,127635,"Monday, May 24, 2021","Saturday, August 20, 2022",16,71,Dispute,1,9,4,5,14
+21,26,female,White,Some College,NY,53667,"Wednesday, May 5, 2021","Thursday, June 23, 2022",34,67,Unspecified,1,8,5,4,20
+22,32,female,Asian,Some College,NY,83104,"Wednesday, October 27, 2021","Sunday, February 13, 2022",15,39,Unspecified,1,7,6,6,2
+23,29,female,Black,Some College,NY,67429,"Wednesday, June 16, 2021","Tuesday, December 13, 2022",3,94,Unspecified,0,10,4,1,4
+24,32,male,Hispanic,High School Diploma,NY,56806,"Tuesday, January 12, 2021","Sunday, May 29, 2022",16,69,Financial,0,8,6,5,14
+25,34,male,Hispanic,High School Diploma,NY,50440,"Monday, April 5, 2021","Friday, September 23, 2022",11,91,Unspecified,0,10,7,5,14
+26,31,female,White,Masters,CT,87073,"Monday, October 4, 2021","Monday, June 27, 2022",32,114,Loss,0,9,5,4,20
+27,27,nonbiry,White,Associates,CT,63793,"Wednesday, August 4, 2021","Wednesday, November 9, 2022",4,52,Unspecified,0,10,2,1,4
+28,,female,White,Some College,CT,52674,"Thursday, August 26, 2021","Friday, January 14, 2022",13,117,Financial,0,6,1,5,14
+29,28,female,Hispanic,High School Diploma,NJ,55013,"Sunday, December 12, 2021","Sunday, June 26, 2022",25,19,Unspecified,0,6,3,2,11
+30,31,female,Asian,Bachelors,CT,49230,"Saturday, May 1, 2021","Tuesday, May 17, 2022",30,108,Unspecified,0,6,4,3,7
+31,26,male,Asian,Bachelors,NY,65219,"Saturday, May 29, 2021","Wednesday, June 22, 2022",3,34,Dispute,1,10,5,3,7
+32,32,female,Asian,Doctorate,NY,44505,"Friday, April 23, 2021","Wednesday, October 19, 2022",21,41,Unspecified,0,9,2,5,14
+33,33,male,Hispanic,Bachelors,CT,108139,"Monday, May 17, 2021","Saturday, December 10, 2022",2,81,Financial,0,9,7,1,4
+34,30,unspecified,Indigenous,Masters,NJ,134649,"Monday, May 24, 2021","Wednesday, January 5, 2022",27,16,Financial,1,9,1,6,2
+35,26,female,Black,High School Diploma,CT,41660,"Wednesday, June 9, 2021","Friday, February 11, 2022",9,117,Unspecified,0,6,4,6,2
+36,26,,Hispanic,Associates,NY,75724,"Sunday, May 23, 2021","Tuesday, September 13, 2022",32,40,Dispute,0,7,7,4,20
+37,32,nonbiry,Asian,Associates,NY,51729,"Saturday, May 1, 2021","Saturday, December 10, 2022",34,118,Financial,0,10,2,4,20
+38,25,male,White,Masters,NY,112821,"Sunday, September 19, 2021","Tuesday, April 5, 2022",18,60,Unspecified,1,7,1,2,11
+39,44,male,Hispanic,Masters,NJ,78567,"Wednesday, June 23, 2021","Thursday, March 17, 2022",5,15,Financial,0,9,4,6,2
+40,34,male,Hispanic,High School Diploma,NJ,46589,"Thursday, April 15, 2021","Sunday, July 3, 2022",2,45,Financial,0,9,6,1,4
+41,27,female,White,Bachelors,NY,57473,"Friday, August 6, 2021","Thursday, April 14, 2022",22,100,Loss,0,9,1,1,4
+42,28,male,Asian,,CT,119588,"Sunday, November 7, 2021","Wednesday, July 6, 2022",3,27,Financial,0,6,1,1,4
+43,32,female,Asian,Associates,CT,88374,"Tuesday, June 29, 2021","Saturday, November 19, 2022",20,32,Unspecified,1,9,1,3,7
+44,32,female,Black,Some College,CT,68675,"Tuesday, March 23, 2021","Thursday, January 13, 2022",9,34,Financial,0,9,2,4,20
+45,28,female,Black,Masters,NJ,143362,"Wednesday, February 24, 2021","Sunday, September 18, 2022",17,74,Loss,0,10,1,6,2
+46,29,female,Asian,Masters,CT,127333,"Monday, February 1, 2021","Tuesday, September 6, 2022",22,65,Loss,0,6,7,2,11
+47,33,male,Black,Masters,,100865,"Wednesday, April 21, 2021","Monday, June 20, 2022",2,54,Financial,0,6,1,1,4
+48,44,female,White,Some College,CT,85187,"Thursday, May 6, 2021","Thursday, April 21, 2022",24,122,Dispute,1,10,5,7,9
+49,43,female,White,Associates,CT,63875,"Friday, February 19, 2021","Tuesday, August 9, 2022",18,93,Financial,0,10,1,3,7
+50,27,male,Black,Some College,CT,57918,"Monday, December 20, 2021","Thursday, December 15, 2022",22,124,Financial,0,7,1,4,20
+51,25,female,Black,Associates,NY,68984,"Thursday, April 15, 2021","Monday, June 13, 2022",17,42,Dispute,0,7,6,3,7
+52,28,male,White,Some College,NY,79514,"Thursday, February 18, 2021","Friday, November 11, 2022",16,100,Dispute,0,6,6,2,11
+53,26,female,Hispanic,Bachelors,NY,57225,"Sunday, March 21, 2021","Monday, February 7, 2022",13,85,Unspecified,1,7,1,1,4
+54,32,female,Indigenous,Bachelors,NY,90568,"Wednesday, November 17, 2021","Saturday, April 9, 2022",22,65,Loss,0,8,1,7,9
+55,29,female,Hispanic,Some College,NJ,84336,"Saturday, August 7, 2021","Thursday, April 21, 2022",12,30,Financial,0,7,3,3,7
+56,32,female,Hispanic,High School Diploma,CT,42400,"Sunday, June 6, 2021","Wednesday, April 13, 2022",28,73,Unspecified,0,6,3,2,11
+57,34,male,Asian,Masters,NJ,140450,"Wednesday, October 27, 2021","Thursday, October 27, 2022",25,96,Dispute,0,8,3,3,7
+58,31,male,Black,Bachelors,NJ,106772,"Sunday, November 28, 2021","Friday, February 11, 2022",2,16,Unspecified,0,6,2,4,20
+59,27,female,White,Associates,NJ,81655,"Tuesday, February 16, 2021","Saturday, December 17, 2022",10,75,Unspecified,0,7,7,5,14
+60,30,male,Asian,Bachelors,NJ,119831,"Saturday, November 27, 2021","Thursday, August 11, 2022",12,97,Loss,0,10,5,6,2
+61,28,female,Black,High School Diploma,NY,39014,"Sunday, August 8, 2021","Sunday, May 22, 2022",11,117,Dispute,0,7,5,3,7
+62,31,female,Black,Masters,NJ,101411,"Thursday, January 14, 2021","Friday, September 16, 2022",12,33,Financial,0,9,2,6,2
+63,26,female,Black,Bachelors,NJ,57553,"Thursday, October 21, 2021","Wednesday, November 16, 2022",16,82,Financial,0,7,1,7,9
+64,32,female,Asian,Some College,CT,71503,"Thursday, November 25, 2021","Monday, November 7, 2022",13,100,Financial,1,9,5,2,11
+65,33,male,White,Some College,NY,60287,"Sunday, May 9, 2021","Wednesday, September 7, 2022",30,121,Dispute,0,7,6,2,11
+66,30,female,Hispanic,High School Diploma,NY,60866,"Wednesday, October 13, 2021","Thursday, September 8, 2022",15,118,Unspecified,0,9,1,7,9
+67,26,,Indigenous,Associates,NY,71259,"Thursday, May 6, 2021","Wednesday, December 14, 2022",13,89,Unspecified,0,7,2,4,20
+68,26,male,White,High School Diploma,NY,50627,"Thursday, January 28, 2021","Sunday, January 23, 2022",9,20,Unspecified,0,9,7,3,7
+69,32,male,Hispanic,High School Diploma,NY,52463,"Sunday, December 5, 2021","Sunday, October 30, 2022",28,36,Unspecified,1,8,2,7,9
+70,33,male,Black,Associates,NY,45605,"Saturday, May 22, 2021","Monday, August 1, 2022",20,71,,0,8,4,7,9
+71,34,female,Black,Associates,NY,73164,"Sunday, October 3, 2021","Wednesday, April 6, 2022",12,39,Dispute,0,7,3,5,14
+72,40,female,Asian,Some College,NY,61974,"Thursday, September 2, 2021","Thursday, September 1, 2022",28,52,Financial,0,8,5,6,2
+73,29,male,Hispanic,Bachelors,,60585,"Wednesday, July 21, 2021","Tuesday, May 17, 2022",28,83,Loss,0,10,7,7,9
+74,28,female,White,Bachelors,NY,88752,"Thursday, October 28, 2021","Saturday, June 18, 2022",22,118,Loss,0,8,2,3,7
+75,36,female,Hispanic,Associates,NY,78421,"Tuesday, January 5, 2021","Wednesday, July 27, 2022",25,124,Unspecified,0,6,5,1,4
+76,34,female,Hispanic,Associates,NJ,57797,"Friday, July 23, 2021","Tuesday, November 8, 2022",18,26,Unspecified,1,10,5,7,9
+77,35,male,Black,High School Diploma,CT,43635,"Wednesday, February 10, 2021","Tuesday, February 22, 2022",15,53,Financial,0,9,4,3,7
+78,33,male,Asian,Bachelors,NY,72772,"Friday, March 19, 2021","Tuesday, September 13, 2022",24,124,Loss,0,7,4,6,2
+79,33,male,Black,Bachelors,NY,104564,"Thursday, August 12, 2021","Sunday, May 15, 2022",11,61,Unspecified,0,6,1,1,4
+80,39,male,White,Masters,NY,77456,"Tuesday, September 7, 2021","Monday, September 19, 2022",4,15,Financial,0,6,4,2,11
+81,29,male,White,Associates,NY,70073,"Tuesday, January 26, 2021","Friday, April 8, 2022",29,120,Dispute,1,6,1,7,9
+82,35,male,White,Bachelors,CT,50182,"Sunday, October 24, 2021","Tuesday, September 27, 2022",21,70,Loss,0,7,1,3,7
+83,28,female,Black,Masters,CT,129140,"Saturday, January 16, 2021","Friday, October 7, 2022",3,105,Dispute,0,9,6,4,20
+84,37,male,Asian,Some College,NJ,49157,"Thursday, May 6, 2021","Monday, May 9, 2022",29,16,Loss,0,6,7,3,7
+85,19,nonbiry,White,Some College,NY,80588,"Thursday, May 27, 2021","Friday, December 9, 2022",8,62,Financial,0,6,4,2,11
+86,31,female,Black,Some College,NY,54362,"Tuesday, September 21, 2021","Wednesday, November 16, 2022",25,103,Loss,0,10,5,3,7
+87,37,female,Asian,Some College,NY,46500,"Sunday, November 28, 2021","Sunday, July 3, 2022",6,53,Loss,1,6,3,1,4
+88,31,female,Asian,Some High School,NY,50599,"Friday, November 5, 2021","Tuesday, February 1, 2022",6,67,Dispute,0,10,1,7,9
+89,26,female,White,High School Diploma,NJ,47709,"Saturday, March 20, 2021","Monday, October 24, 2022",23,19,Financial,0,8,7,7,9
+90,26,male,Asian,Associates,NY,43799,"Tuesday, March 16, 2021","Saturday, February 12, 2022",23,93,Loss,0,9,6,3,7
+91,39,female,Black,Associates,NJ,43455,"Friday, September 10, 2021","Thursday, July 14, 2022",31,125,Unspecified,0,8,7,1,4
+92,25,male,White,Masters,CT,94807,"Saturday, January 23, 2021","Wednesday, March 23, 2022",30,99,Unspecified,0,10,4,4,20
+93,19,male,Asian,Bachelors,NY,52766,"Wednesday, September 29, 2021","Thursday, April 28, 2022",29,106,Unspecified,0,9,4,1,4
+94,28,female,Black,Masters,NY,70024,"Friday, August 13, 2021","Saturday, November 12, 2022",10,71,Dispute,1,10,7,5,14
+95,39,male,Hispanic,Bachelors,NJ,57483,"Friday, August 13, 2021","Monday, September 12, 2022",17,89,Unspecified,0,8,7,3,7
+96,27,female,White,Bachelors,NJ,91663,"Tuesday, November 30, 2021","Monday, November 21, 2022",32,107,Unspecified,1,7,3,5,14
+97,37,female,White,Associates,NJ,43454,"Tuesday, January 19, 2021","Sunday, March 13, 2022",5,50,Dispute,0,9,7,5,14
+98,36,female,White,Associates,NJ,74725,"Saturday, January 23, 2021","Saturday, August 27, 2022",24,70,Dispute,0,10,2,3,7
+99,29,female,Asian,Bachelors,NY,116921,"Tuesday, August 3, 2021","Wednesday, October 26, 2022",23,82,Loss,0,7,5,2,11
+100,28,female,Black,Masters,NY,99878,"Saturday, November 20, 2021","Monday, June 6, 2022",9,76,Dispute,1,8,1,2,11
+101,30,female,Asian,Bachelors,NJ,59589,"Tuesday, January 19, 2021","Tuesday, August 2, 2022",7,73,Loss,1,8,4,7,9
+102,23,male,Asian,Associates,CT,70820,"Saturday, December 11, 2021","Sunday, February 27, 2022",35,72,Unspecified,1,7,4,5,14
+103,31,male,Hispanic,Some High School,NY,50935,"Monday, August 9, 2021","Sunday, April 10, 2022",13,23,Unspecified,1,7,1,7,9
+104,38,male,White,Bachelors,NY,49648,"Sunday, March 28, 2021","Saturday, September 17, 2022",34,61,Loss,0,8,4,7,9
+105,30,male,Black,Some College,NY,41806,"Thursday, October 21, 2021","Wednesday, April 13, 2022",29,16,Unspecified,0,8,3,1,4
+106,33,female,White,Some College,NJ,,"Monday, April 12, 2021","Thursday, February 3, 2022",9,96,Dispute,1,8,1,4,20
+107,40,male,White,Some College,NY,50253,"Sunday, May 23, 2021","Thursday, March 3, 2022",31,16,Loss,1,7,7,3,7
+108,26,nonbiry,Black,High School Diploma,NJ,48806,"Friday, March 19, 2021","Thursday, March 10, 2022",19,30,Financial,0,7,2,3,7
+109,37,female,Black,,CT,45951,"Wednesday, April 28, 2021","Friday, April 15, 2022",27,63,Dispute,1,6,4,6,2
+110,33,male,White,High School Diploma,NY,46000,"Tuesday, November 2, 2021","Monday, November 21, 2022",6,115,Unspecified,0,6,1,2,11
+111,27,nonbiry,White,High School Diploma,NY,57100,"Tuesday, July 13, 2021","Wednesday, May 25, 2022",14,93,Financial,0,10,5,4,20
+112,29,male,Black,High School Diploma,NJ,49000,"Tuesday, June 15, 2021","Sunday, June 12, 2022",34,71,Loss,1,9,4,1,4
+113,27,male,White,Bachelors,NJ,55097,"Sunday, February 14, 2021","Monday, April 11, 2022",3,76,Dispute,0,8,7,1,4
+114,26,female,Hispanic,Some College,NJ,62377,"Saturday, October 16, 2021","Monday, January 3, 2022",27,38,Unspecified,0,10,2,3,7
+115,,male,Hispanic,Masters,NJ,108397,"Tuesday, March 16, 2021","Thursday, November 10, 2022",12,51,Financial,0,6,5,5,14
+116,30,nonbiry,Hispanic,Some High School,NY,49885,"Saturday, July 3, 2021","Monday, June 27, 2022",33,63,,1,10,4,2,11
+117,31,male,Asian,Associates,NY,66583,"Tuesday, July 27, 2021","Tuesday, August 23, 2022",23,38,Dispute,0,6,4,7,9
+118,31,female,White,Associates,NJ,45621,"Sunday, February 21, 2021","Saturday, June 25, 2022",21,106,Financial,0,9,1,6,2
+119,26,male,White,Masters,CT,66486,"Sunday, January 31, 2021","Monday, July 4, 2022",6,93,Loss,1,8,6,6,2
+120,33,male,Hispanic,Some High School,NY,38134,"Tuesday, January 19, 2021","Friday, April 1, 2022",35,83,Unspecified,0,10,4,4,20
+121,28,female,White,Bachelors,NY,105861,"Sunday, September 12, 2021","Saturday, March 5, 2022",15,68,Loss,1,6,1,3,7
+122,33,male,White,High School Diploma,NY,39755,"Sunday, March 21, 2021","Thursday, November 17, 2022",28,71,Unspecified,1,10,7,5,14
+123,26,female,White,High School Diploma,NY,32299,"Sunday, April 25, 2021","Wednesday, November 23, 2022",9,123,Dispute,0,7,4,7,9
+124,33,female,White,Masters,NY,118511,"Wednesday, January 20, 2021","Tuesday, May 3, 2022",9,34,Financial,0,10,1,7,9
+125,30,female,White,Bachelors,NJ,89213,"Saturday, March 6, 2021","Friday, December 16, 2022",21,45,Dispute,1,8,2,6,2
+126,32,male,Hispanic,High School Diploma,NJ,47451,"Wednesday, April 7, 2021","Saturday, November 12, 2022",26,113,Unspecified,0,10,7,7,9
+127,26,female,Hispanic,Associates,NJ,67073,"Tuesday, March 16, 2021","Tuesday, August 16, 2022",21,64,Financial,1,6,2,1,4
+128,32,,Black,High School Diploma,NJ,47922,"Friday, November 26, 2021","Saturday, December 17, 2022",27,102,Dispute,1,6,2,7,9
+129,31,unspecified,Black,Some College,NY,57609,"Thursday, April 1, 2021","Sunday, July 17, 2022",34,108,Financial,0,7,5,2,11
+130,30,,White,Associates,NY,44885,"Thursday, June 3, 2021","Tuesday, February 1, 2022",32,120,Financial,0,6,1,1,4
+131,20,male,Hispanic,Bachelors,NJ,77835,"Wednesday, July 7, 2021","Tuesday, September 27, 2022",7,82,Loss,0,7,1,5,14
+132,26,female,White,Masters,CT,79157,"Sunday, December 12, 2021","Monday, July 4, 2022",25,54,Loss,1,8,5,7,9
+133,30,female,Hispanic,High School Diploma,NY,43680,"Saturday, February 6, 2021","Monday, September 26, 2022",23,56,Financial,1,9,1,7,9
+134,27,male,Asian,High School Diploma,NJ,53548,"Wednesday, August 25, 2021","Sunday, April 24, 2022",16,29,Unspecified,1,6,7,1,4
+135,32,male,White,Masters,NY,132603,"Friday, March 19, 2021","Thursday, January 6, 2022",34,20,Financial,0,7,3,2,11
+136,26,female,White,Associates,NJ,67530,"Friday, February 12, 2021","Wednesday, July 20, 2022",30,59,Loss,0,9,6,7,9
+137,28,male,White,Some College,CT,78454,"Saturday, December 11, 2021","Saturday, August 13, 2022",6,77,Loss,0,8,7,6,2
+138,19,female,White,High School Diploma,NY,56869,"Wednesday, March 31, 2021","Wednesday, October 5, 2022",5,98,Loss,0,6,7,7,9
+139,37,female,Hispanic,Some College,NY,80838,"Wednesday, June 9, 2021","Saturday, August 27, 2022",11,31,Dispute,0,8,2,4,20
+140,34,male,White,Masters,NJ,83638,"Thursday, December 9, 2021","Saturday, May 21, 2022",11,68,Unspecified,0,10,7,7,9
+141,20,female,White,Bachelors,NJ,119425,"Tuesday, July 6, 2021","Thursday, October 27, 2022",3,97,Dispute,0,6,3,4,20
+142,33,female,Black,High School Diploma,NJ,37040,"Thursday, September 9, 2021","Tuesday, September 20, 2022",32,115,Unspecified,0,8,5,3,7
+143,36,male,Black,Associates,NJ,83472,"Thursday, March 25, 2021","Friday, July 29, 2022",15,93,Financial,1,9,2,3,7
+144,32,male,White,Some College,NY,74514,"Tuesday, February 16, 2021","Friday, July 22, 2022",32,120,Loss,1,9,4,5,14
+145,28,female,Hispanic,High School Diploma,NY,57144,"Thursday, February 4, 2021","Saturday, July 9, 2022",5,115,Dispute,0,10,3,5,14
+146,34,nonbiry,White,Associates,NJ,45926,"Saturday, April 10, 2021","Sunday, March 27, 2022",12,56,Unspecified,1,7,2,4,20
+147,22,male,White,Some College,CT,55998,"Wednesday, February 24, 2021","Thursday, February 10, 2022",28,53,Loss,0,8,7,5,14
+148,31,female,White,Bachelors,NY,58206,"Thursday, February 11, 2021","Wednesday, June 22, 2022",11,36,Dispute,0,7,6,3,7
+149,30,male,White,Associates,NJ,73777,"Sunday, October 24, 2021","Sunday, January 30, 2022",18,35,Financial,0,9,3,2,11
+150,30,male,Asian,Bachelors,,82657,"Friday, March 5, 2021","Friday, April 8, 2022",29,120,,1,8,3,2,11
+151,39,male,White,Associates,NY,51824,"Friday, November 12, 2021","Wednesday, October 5, 2022",22,62,Unspecified,1,8,6,5,14
+152,32,female,White,High School Diploma,NJ,31761,"Monday, December 20, 2021","Monday, February 21, 2022",34,39,Loss,0,10,7,3,7
+153,39,male,Hispanic,High School Diploma,NJ,37492,"Sunday, July 4, 2021","Saturday, July 23, 2022",34,44,Unspecified,0,6,1,1,4
+154,30,male,White,Some College,NJ,77261,"Tuesday, May 25, 2021","Friday, February 4, 2022",11,40,Dispute,1,7,1,2,11
+155,35,nonbiry,White,Some College,NJ,51925,"Sunday, October 10, 2021","Wednesday, June 15, 2022",16,49,Unspecified,1,6,3,5,14
+156,20,female,White,Bachelors,NY,110988,"Sunday, May 30, 2021","Monday, April 25, 2022",27,23,Unspecified,0,9,6,2,11
+157,40,male,Black,Bachelors,NY,90883,"Monday, May 3, 2021","Sunday, June 26, 2022",27,63,Unspecified,0,9,4,2,11
+158,23,nonbiry,Black,Some College,NJ,68677,"Tuesday, February 23, 2021","Tuesday, January 11, 2022",26,23,Unspecified,0,10,6,7,9
+159,39,male,White,High School Diploma,CT,36043,"Tuesday, December 7, 2021","Monday, December 12, 2022",21,123,Unspecified,0,10,3,2,11
+160,29,female,Black,Masters,NY,97478,"Sunday, November 28, 2021","Sunday, September 4, 2022",16,18,Dispute,0,6,2,3,7
+161,21,male,White,Some College,NY,51974,"Thursday, January 7, 2021","Sunday, March 6, 2022",3,50,Loss,1,7,2,5,14
+162,31,male,Asian,Some College,NJ,49703,"Friday, September 24, 2021","Monday, August 1, 2022",12,68,Unspecified,1,8,6,4,20
+163,23,male,Asian,Associates,NY,44075,"Monday, July 5, 2021","Thursday, January 13, 2022",29,69,Dispute,0,6,6,2,11
+164,32,male,White,Masters,NY,114837,"Saturday, November 13, 2021","Monday, October 31, 2022",29,119,Financial,0,8,3,1,4
+165,28,female,White,Bachelors,NJ,72849,"Monday, February 8, 2021","Wednesday, April 20, 2022",2,50,Dispute,1,9,5,6,2
+166,32,male,Black,Bachelors,CT,49092,"Thursday, November 4, 2021","Thursday, April 7, 2022",29,108,Unspecified,0,6,7,7,9
+167,31,female,White,Associates,NY,71994,"Monday, March 1, 2021","Tuesday, November 22, 2022",5,65,Dispute,1,7,4,7,9
+168,37,female,White,Bachelors,NJ,77087,"Friday, April 16, 2021","Monday, February 7, 2022",29,75,Financial,0,9,6,1,4
+169,,female,White,Associates,NY,44273,"Tuesday, July 20, 2021","Tuesday, April 5, 2022",16,88,Unspecified,1,6,7,6,2
+170,24,female,Hispanic,Bachelors,CT,117533,"Saturday, August 14, 2021","Sunday, May 29, 2022",22,41,Unspecified,0,6,4,7,9
+171,26,male,Hispanic,Masters,NJ,139252,"Monday, August 9, 2021","Friday, June 3, 2022",12,38,Unspecified,0,7,2,7,9
+172,30,male,Hispanic,High School Diploma,NJ,60625,"Sunday, September 26, 2021","Friday, October 14, 2022",23,94,Loss,0,8,1,4,20
+173,21,female,White,Some College,CT,63171,"Wednesday, December 8, 2021","Friday, January 21, 2022",12,119,Financial,0,8,5,2,11
+174,38,male,Asian,Some College,NJ,58515,"Tuesday, April 20, 2021","Sunday, October 2, 2022",19,29,Unspecified,0,6,1,4,20
+175,34,female,White,Bachelors,NJ,51789,"Wednesday, July 21, 2021","Tuesday, January 25, 2022",26,32,Unspecified,0,6,6,7,9
+176,25,male,Black,Associates,NJ,63375,"Sunday, February 21, 2021","Friday, November 11, 2022",23,99,Loss,1,6,2,5,14
+177,39,male,Asian,Associates,NY,72845,"Friday, June 11, 2021","Friday, August 5, 2022",3,89,Financial,0,9,3,2,11
+178,37,female,Asian,Associates,NY,86650,"Sunday, December 12, 2021","Tuesday, August 23, 2022",34,114,Unspecified,0,9,1,6,2
+179,26,male,Black,Associates,NJ,83259,"Wednesday, April 21, 2021","Saturday, March 19, 2022",20,79,Unspecified,0,10,6,7,9
+180,28,female,White,Associates,CT,44239,"Tuesday, April 6, 2021","Wednesday, January 26, 2022",34,118,Dispute,0,8,5,5,14
+181,32,male,Black,Bachelors,CT,75128,"Saturday, January 9, 2021","Wednesday, July 27, 2022",10,81,Loss,1,6,7,1,4
+182,44,male,White,Bachelors,NJ,81362,"Thursday, April 15, 2021","Friday, November 4, 2022",3,98,Dispute,1,6,7,7,9
+183,34,male,White,Bachelors,NY,72537,"Monday, August 23, 2021","Friday, July 1, 2022",5,124,Financial,0,7,3,1,4
+184,27,male,Black,Bachelors,NY,73380,"Monday, August 2, 2021","Saturday, February 12, 2022",22,70,Loss,0,8,6,5,14
+185,28,male,White,Bachelors,NJ,60632,"Wednesday, May 26, 2021","Wednesday, August 17, 2022",2,103,Unspecified,0,7,5,2,11
+186,32,male,Black,High School Diploma,NY,32707,"Wednesday, November 10, 2021","Friday, February 18, 2022",21,119,Loss,0,6,7,7,9
+187,32,female,White,Some College,NJ,41586,"Thursday, April 1, 2021","Thursday, August 4, 2022",14,41,Financial,0,7,5,1,4
+188,28,nonbiry,White,Bachelors,CT,80405,"Tuesday, July 13, 2021","Saturday, May 7, 2022",7,69,Loss,0,10,7,2,11
+189,29,female,Asian,Some College,NY,45724,"Monday, September 6, 2021","Monday, October 17, 2022",21,111,Unspecified,0,10,4,3,7
+190,33,female,White,Associates,NY,71920,"Sunday, January 17, 2021","Sunday, October 9, 2022",25,72,Unspecified,0,7,6,6,2
+191,44,male,Black,Bachelors,NY,82610,"Wednesday, September 8, 2021","Monday, May 23, 2022",22,68,Financial,0,10,3,4,20
+192,43,male,Hispanic,Masters,CT,84834,"Saturday, July 17, 2021","Monday, June 27, 2022",17,69,Loss,0,10,2,7,9
+193,35,male,Asian,Bachelors,NY,109442,"Monday, November 8, 2021","Saturday, March 19, 2022",13,81,Dispute,1,10,7,5,14
+194,,female,Hispanic,,NJ,83716,"Thursday, August 19, 2021","Monday, September 5, 2022",12,19,Unspecified,0,6,6,5,14
+195,26,female,Black,Masters,NJ,70137,"Thursday, September 23, 2021","Wednesday, July 27, 2022",16,77,Unspecified,0,9,5,2,11
+196,38,female,White,Masters,CT,126617,"Saturday, April 10, 2021","Wednesday, June 1, 2022",27,67,Dispute,0,7,7,1,4
+197,24,female,White,Bachelors,NJ,107699,"Tuesday, December 14, 2021","Sunday, March 13, 2022",23,68,Unspecified,0,9,7,3,7
+198,21,female,White,Some College,NY,70294,"Wednesday, November 10, 2021","Thursday, September 15, 2022",11,65,Unspecified,0,7,3,7,9
+199,31,male,Asian,Associates,NY,41279,"Wednesday, January 27, 2021","Thursday, November 17, 2022",28,67,Financial,0,8,2,4,20
+200,22,female,Black,Bachelors,NY,48807,"Thursday, July 8, 2021","Monday, May 2, 2022",22,70,Financial,0,9,1,7,9
+201,25,female,White,High School Diploma,CT,31147,"Thursday, June 17, 2021","Wednesday, March 16, 2022",17,87,Dispute,0,7,1,1,4
+202,33,male,Black,High School Diploma,NJ,55207,"Thursday, July 1, 2021","Wednesday, November 30, 2022",15,113,Loss,0,8,3,6,2
+203,35,female,Asian,Some College,NJ,85519,"Tuesday, March 16, 2021","Sunday, September 18, 2022",34,30,Dispute,0,8,5,4,20
+204,28,female,White,Some College,NY,82065,"Monday, March 29, 2021","Friday, November 25, 2022",27,30,Unspecified,0,8,3,3,7
+205,29,female,Black,Masters,NY,97794,"Wednesday, October 20, 2021","Monday, November 21, 2022",32,102,Loss,0,10,4,1,4
+206,40,female,Black,Some College,NY,51023,"Thursday, November 4, 2021","Monday, February 7, 2022",28,61,Unspecified,0,6,7,2,11
+207,23,nonbiry,Hispanic,Bachelors,NY,69422,"Tuesday, February 9, 2021","Sunday, January 2, 2022",27,22,Financial,0,6,6,1,4
+208,23,male,White,Associates,NJ,60892,"Tuesday, May 11, 2021","Saturday, November 5, 2022",30,114,Loss,0,7,4,2,11
+209,21,male,White,Bachelors,CT,90900,"Friday, May 14, 2021","Tuesday, August 9, 2022",8,32,Loss,0,6,1,6,2
+210,31,male,Asian,Some College,NJ,53499,"Friday, December 17, 2021","Friday, July 15, 2022",17,58,Loss,0,7,5,2,11
+211,29,female,Hispanic,Some College,NJ,53307,"Thursday, January 21, 2021","Thursday, July 14, 2022",15,116,Financial,0,7,1,3,7
+212,20,female,White,Associates,NJ,76530,"Monday, February 8, 2021","Friday, May 13, 2022",7,33,Financial,1,8,4,1,4
+213,19,female,Asian,Some College,CT,74956,"Monday, March 8, 2021","Wednesday, April 13, 2022",3,106,Dispute,0,7,1,6,2
+214,21,,White,Bachelors,NY,53117,"Wednesday, June 30, 2021","Sunday, December 4, 2022",24,111,Unspecified,0,10,2,1,4
+215,,,Black,Associates,NJ,70861,"Friday, April 16, 2021","Thursday, September 29, 2022",33,101,Loss,0,7,5,2,11
+216,28,male,White,Bachelors,NJ,91144,"Monday, March 1, 2021","Friday, February 11, 2022",17,123,Unspecified,0,10,6,4,20
+217,35,male,White,High School Diploma,CT,57117,"Saturday, July 24, 2021","Thursday, May 26, 2022",31,120,Financial,0,10,6,4,20
+218,20,male,Hispanic,High School Diploma,NY,51748,"Sunday, January 3, 2021","Friday, April 29, 2022",2,85,Loss,0,9,7,7,9
+219,44,male,Black,Bachelors,NJ,104729,"Tuesday, June 1, 2021","Tuesday, March 8, 2022",11,103,Financial,0,6,5,5,14
+220,34,female,Black,Some High School,NY,51180,"Thursday, April 8, 2021","Saturday, April 23, 2022",31,81,Dispute,0,7,7,5,14
+221,27,male,Black,Associates,NJ,46938,"Tuesday, December 14, 2021","Saturday, December 3, 2022",29,79,Financial,1,6,1,5,14
+222,28,female,Asian,Bachelors,CT,89241,"Saturday, November 6, 2021","Tuesday, February 15, 2022",17,92,Financial,0,10,1,3,7
+223,32,female,White,Some College,NY,79342,"Monday, October 18, 2021","Thursday, November 24, 2022",16,47,,0,10,4,3,7
+224,32,female,Black,High School Diploma,NY,52334,"Monday, July 5, 2021","Sunday, October 23, 2022",7,32,Financial,0,10,6,4,20
+225,28,female,White,Bachelors,NJ,77524,"Thursday, January 14, 2021","Saturday, September 10, 2022",25,82,Financial,0,8,7,6,2
+226,29,male,White,Bachelors,NJ,69571,"Friday, August 20, 2021","Friday, December 16, 2022",11,74,Unspecified,0,9,3,6,2
+227,33,female,Hispanic,Associates,NJ,58094,"Tuesday, September 7, 2021","Thursday, June 23, 2022",9,84,Financial,0,9,7,1,4
+228,44,male,Hispanic,High School Diploma,NJ,40966,"Thursday, February 11, 2021","Thursday, June 23, 2022",16,39,Loss,0,6,4,1,4
+229,43,female,Black,Bachelors,NY,112685,"Wednesday, March 10, 2021","Tuesday, December 20, 2022",34,86,Unspecified,0,10,4,6,2
+230,34,female,Black,Bachelors,NY,109907,"Sunday, May 9, 2021","Saturday, January 8, 2022",16,102,Financial,0,6,3,1,4
+231,22,female,Black,Some College,NJ,74192,"Tuesday, November 30, 2021","Sunday, November 27, 2022",27,36,Dispute,0,7,2,2,11
+232,28,female,Black,Some College,CT,89432,"Monday, January 25, 2021","Wednesday, August 31, 2022",34,113,Dispute,1,10,5,2,11
+233,32,male,White,Some High School,NY,58629,"Tuesday, November 23, 2021","Wednesday, July 20, 2022",29,55,Unspecified,0,10,1,5,14
+234,32,female,Black,Some College,NY,67745,"Saturday, October 30, 2021","Tuesday, March 22, 2022",11,21,Financial,0,10,3,6,2
+235,27,female,Hispanic,High School Diploma,NY,56648,"Wednesday, September 29, 2021","Sunday, July 17, 2022",15,38,Dispute,0,10,1,1,4
+236,22,male,Hispanic,Bachelors,NY,104370,"Thursday, October 28, 2021","Friday, October 21, 2022",34,82,Loss,0,8,7,6,2
+237,20,female,Black,Masters,NJ,141983,"Saturday, August 7, 2021","Thursday, April 14, 2022",25,80,Dispute,0,10,5,6,2
+238,37,female,White,Associates,CT,44132,"Sunday, January 17, 2021","Monday, July 11, 2022",8,122,Financial,0,10,7,3,7
+239,27,male,Asian,Some College,NY,75149,"Monday, August 2, 2021","Saturday, September 3, 2022",11,111,Unspecified,0,8,7,6,2
+240,30,male,Asian,Some High School,NY,42156,"Wednesday, February 17, 2021","Thursday, January 13, 2022",27,124,Financial,0,6,5,7,9
+241,26,nonbiry,Black,Masters,NJ,92867,"Thursday, December 9, 2021","Thursday, June 23, 2022",22,110,Dispute,0,10,1,6,2
+242,28,male,White,Associates,NJ,81757,"Wednesday, February 3, 2021","Thursday, June 16, 2022",8,36,Dispute,0,7,1,2,11
+243,35,male,Asian,Masters,NJ,113948,"Monday, May 31, 2021","Thursday, December 1, 2022",13,104,Financial,0,9,1,3,7
+244,30,female,Black,Bachelors,NJ,112245,"Sunday, August 22, 2021","Saturday, July 9, 2022",23,115,Financial,1,7,1,3,7
+245,25,male,White,Bachelors,NY,109942,"Sunday, June 13, 2021","Thursday, June 16, 2022",31,29,Financial,0,7,3,7,9
+246,37,nonbiry,Black,Some College,,58252,"Tuesday, September 7, 2021","Sunday, October 30, 2022",15,86,Financial,1,10,5,7,9
+247,35,male,Asian,High School Diploma,NJ,50500,"Saturday, May 1, 2021","Sunday, January 9, 2022",19,16,,0,9,4,4,20
+248,25,female,White,Bachelors,NJ,89392,"Tuesday, June 22, 2021","Monday, February 14, 2022",11,18,Dispute,0,7,7,7,9
+249,33,female,Hispanic,Bachelors,NY,62088,"Thursday, January 7, 2021","Friday, July 22, 2022",6,24,Financial,0,7,7,7,9
+250,33,male,Asian,Some College,NY,76485,"Friday, August 13, 2021","Sunday, October 16, 2022",34,52,Dispute,0,7,2,4,20
+251,37,female,White,High School Diploma,NJ,56775,"Thursday, February 18, 2021","Monday, August 8, 2022",18,99,Dispute,0,8,5,4,20
+252,28,female,White,Some High School,CT,37470,"Thursday, October 21, 2021","Friday, June 24, 2022",12,65,Loss,0,7,5,4,20
+253,34,male,Black,Bachelors,NY,97747,"Wednesday, July 21, 2021","Thursday, May 26, 2022",4,48,Financial,0,6,4,6,2
+254,29,male,White,Bachelors,NY,,"Saturday, August 7, 2021","Tuesday, March 15, 2022",29,76,Dispute,0,10,7,1,4
+255,40,nonbiry,Asian,Some College,NY,63982,"Friday, May 21, 2021","Wednesday, December 14, 2022",7,51,Financial,0,10,4,6,2
+256,26,female,White,Masters,NJ,92879,"Thursday, December 16, 2021","Monday, May 16, 2022",4,89,Dispute,1,7,7,3,7
+257,37,female,Hispanic,Bachelors,NJ,60609,"Wednesday, October 20, 2021","Friday, October 7, 2022",12,106,Financial,0,7,7,2,11
+258,33,female,Asian,Some College,NY,60249,"Friday, June 18, 2021","Sunday, March 6, 2022",27,103,Unspecified,0,7,1,6,2
+259,19,female,White,Some College,NY,87149,"Saturday, February 6, 2021","Saturday, January 29, 2022",12,84,Financial,0,7,4,5,14
+260,26,male,Black,Some College,NJ,59116,"Sunday, September 26, 2021","Wednesday, May 4, 2022",20,17,Financial,0,7,3,1,4
+261,39,female,White,Associates,NJ,54553,"Saturday, May 1, 2021","Sunday, July 3, 2022",16,122,Financial,0,9,1,5,14
+262,29,female,White,Associates,NY,84833,"Tuesday, February 16, 2021","Monday, March 7, 2022",10,27,Financial,0,7,5,3,7
+263,25,male,Black,Masters,NJ,93756,"Wednesday, July 28, 2021","Thursday, February 3, 2022",33,118,Dispute,0,9,3,3,7
+264,33,male,White,Some College,NY,57385,"Thursday, February 18, 2021","Saturday, October 1, 2022",12,48,Unspecified,1,8,1,2,11
+265,23,female,Asian,Bachelors,NY,121405,"Wednesday, July 21, 2021","Wednesday, February 16, 2022",22,68,Financial,0,10,1,6,2
+266,27,female,Hispanic,Some High School,NJ,54716,"Tuesday, March 30, 2021","Sunday, October 16, 2022",35,125,Loss,0,6,2,3,7
+267,20,female,Hispanic,Some College,NY,65432,"Wednesday, August 18, 2021","Friday, March 18, 2022",21,99,Financial,0,6,6,7,9
+268,19,transman,White,Some College,NJ,62128,"Thursday, January 7, 2021","Saturday, August 20, 2022",11,48,Unspecified,0,8,1,5,14
+269,36,female,White,Bachelors,CT,56253,"Saturday, November 13, 2021","Monday, September 5, 2022",35,86,Loss,0,9,2,2,11
+270,29,female,White,Some College,NY,80280,"Wednesday, June 9, 2021","Saturday, December 17, 2022",20,108,Dispute,0,9,6,1,4
+271,33,male,Hispanic,Masters,NY,146121,"Saturday, November 20, 2021","Tuesday, January 25, 2022",12,83,Unspecified,0,8,2,3,7
+272,26,male,Hispanic,Masters,NY,80432,"Saturday, July 31, 2021","Thursday, December 8, 2022",5,110,Loss,0,8,1,1,4
+273,25,unspecified,White,Associates,CT,67005,"Thursday, July 29, 2021","Tuesday, March 29, 2022",14,110,Unspecified,0,8,6,2,11
+274,34,,White,Bachelors,NY,62359,"Saturday, August 28, 2021","Monday, July 4, 2022",2,107,Financial,0,9,1,3,7
+275,24,female,Hispanic,Bachelors,NJ,103460,"Monday, September 27, 2021","Tuesday, September 6, 2022",8,72,Loss,0,10,5,5,14
+276,24,female,White,Bachelors,NY,111978,"Wednesday, December 8, 2021","Thursday, January 13, 2022",9,76,Unspecified,0,8,1,5,14
+277,33,female,Indigenous,High School Diploma,NJ,46382,"Monday, July 26, 2021","Wednesday, May 4, 2022",16,78,Loss,0,10,3,2,11
+278,35,male,White,Some College,NJ,65417,"Wednesday, November 17, 2021","Wednesday, June 15, 2022",13,73,Loss,0,9,7,6,2
+279,27,female,White,Some High School,NY,35901,"Thursday, November 11, 2021","Sunday, September 4, 2022",32,67,Dispute,0,7,5,1,4
+280,34,female,Indigenous,,NJ,44529,"Monday, February 22, 2021","Wednesday, November 2, 2022",29,114,Unspecified,0,10,3,5,14
+281,34,male,White,Bachelors,NY,99444,"Sunday, March 7, 2021","Sunday, June 5, 2022",20,87,Unspecified,0,10,7,1,4
+282,33,unspecified,White,Some High School,NY,33534,"Monday, December 20, 2021","Saturday, December 10, 2022",5,122,Loss,0,10,4,4,20
+283,29,female,Hispanic,Some College,NJ,66539,"Saturday, January 9, 2021","Thursday, May 19, 2022",10,116,Financial,0,6,4,1,4
+284,31,female,Hispanic,High School Diploma,NY,42891,"Friday, April 16, 2021","Monday, October 17, 2022",24,30,Unspecified,0,10,4,7,9
+285,22,female,Hispanic,Associates,NJ,55956,"Sunday, February 28, 2021","Wednesday, April 20, 2022",18,118,Financial,1,6,1,3,7
+286,38,female,Indigenous,Masters,CT,68488,"Thursday, March 25, 2021","Thursday, October 20, 2022",28,88,Dispute,0,9,7,5,14
+287,33,female,Asian,Some College,NY,43000,"Wednesday, February 10, 2021","Friday, December 9, 2022",35,99,Loss,0,6,1,6,2
+288,26,female,White,Masters,NY,92991,"Saturday, February 27, 2021","Thursday, November 24, 2022",8,74,Dispute,0,8,7,3,7
+289,27,male,White,Bachelors,NY,57675,"Tuesday, October 19, 2021","Tuesday, February 15, 2022",20,34,Loss,0,6,6,5,14
+290,36,male,Black,Masters,NY,113929,"Friday, August 13, 2021","Wednesday, March 30, 2022",14,22,Financial,0,6,6,4,20
+291,28,female,Black,Bachelors,NY,65485,"Monday, June 28, 2021","Friday, April 22, 2022",24,53,Financial,0,10,1,4,20
+292,31,female,Black,Masters,NY,148021,"Monday, May 24, 2021","Saturday, August 6, 2022",21,40,Financial,1,8,5,3,7
+293,31,female,Asian,Doctorate,NY,48923,"Thursday, March 18, 2021","Wednesday, May 18, 2022",7,53,Financial,1,6,6,4,20
+294,21,female,Hispanic,Associates,NY,70010,"Monday, March 29, 2021","Wednesday, October 12, 2022",12,96,Unspecified,0,8,6,6,2
+295,24,female,Hispanic,Bachelors,NY,73049,"Thursday, November 18, 2021","Tuesday, November 8, 2022",32,100,Financial,0,8,1,4,20
+296,26,female,Black,Bachelors,NY,79828,"Tuesday, March 9, 2021","Thursday, September 22, 2022",13,100,Dispute,0,9,5,4,20
+297,34,unspecified,White,Associates,NY,81396,"Sunday, July 4, 2021","Friday, January 14, 2022",21,59,Financial,0,8,2,3,7
+298,19,female,Black,Some College,NY,49399,"Sunday, May 16, 2021","Monday, January 3, 2022",17,38,Financial,0,9,2,6,2
+299,19,male,White,Some College,CT,48171,"Saturday, May 22, 2021","Wednesday, December 7, 2022",7,47,Unspecified,0,8,5,1,4
+300,34,female,Hispanic,Bachelors,NY,81601,"Tuesday, June 15, 2021","Sunday, July 10, 2022",28,63,Financial,0,6,3,6,2
+301,27,female,Black,Some High School,NY,53812,"Tuesday, June 8, 2021","Thursday, September 8, 2022",25,66,Loss,0,7,1,7,9
+302,39,male,Black,Bachelors,NY,48203,"Friday, March 19, 2021","Friday, June 24, 2022",13,47,Unspecified,0,8,5,3,7
+303,26,male,Asian,Associates,NY,80312,"Thursday, October 28, 2021","Wednesday, November 16, 2022",15,18,Financial,0,6,7,7,9
+304,29,male,Hispanic,Masters,NJ,106209,"Saturday, January 30, 2021","Wednesday, November 9, 2022",24,122,Loss,0,6,5,1,4
+305,23,male,Asian,Some College,NJ,59282,"Wednesday, August 11, 2021","Saturday, December 10, 2022",19,59,Loss,0,9,4,5,14
+306,19,male,Hispanic,Some College,NY,84949,"Friday, March 5, 2021","Wednesday, September 28, 2022",25,90,Financial,0,7,7,6,2
+307,25,nonbiry,Hispanic,Some High School,NY,57983,"Monday, September 13, 2021","Sunday, June 19, 2022",29,27,Financial,0,8,2,3,7
+308,33,nonbiry,White,Some High School,NJ,31810,"Friday, February 5, 2021","Monday, January 24, 2022",30,74,Loss,1,8,6,2,11
+309,35,transwomen,Black,Associates,NJ,78756,"Saturday, April 3, 2021","Sunday, February 6, 2022",26,47,Dispute,0,9,2,7,9
+310,19,male,White,Some College,NJ,50915,"Friday, April 30, 2021","Thursday, August 11, 2022",34,42,Dispute,0,6,2,5,14
+311,31,female,Black,Bachelors,CT,63610,"Monday, December 13, 2021","Sunday, December 11, 2022",19,112,Loss,0,7,2,7,9
+312,29,female,Black,Some High School,NY,44085,"Thursday, August 5, 2021","Tuesday, January 18, 2022",32,121,Financial,0,9,7,7,9
+313,20,female,Black,Bachelors,NY,59762,"Monday, November 8, 2021","Wednesday, August 10, 2022",4,41,Unspecified,0,7,1,4,20
+314,37,female,Hispanic,Bachelors,NJ,119906,"Saturday, May 29, 2021","Thursday, July 21, 2022",31,59,Financial,1,7,4,1,4
+315,39,female,Black,Masters,CT,111878,"Friday, August 20, 2021","Thursday, September 22, 2022",17,67,Financial,0,6,7,3,7
+316,27,,Black,Bachelors,NY,112462,"Wednesday, November 3, 2021","Monday, July 4, 2022",12,84,Dispute,0,7,3,6,2
+317,30,female,Black,Some College,NY,75401,"Saturday, January 23, 2021","Saturday, October 1, 2022",19,112,Financial,0,6,5,6,2
+318,25,female,Hispanic,Associates,NJ,85949,"Wednesday, January 20, 2021","Saturday, March 26, 2022",32,50,Unspecified,1,9,2,1,4
+319,26,female,Black,Bachelors,NY,122025,"Thursday, July 22, 2021","Sunday, August 7, 2022",31,114,Financial,0,8,2,2,11
+320,35,female,White,Associates,NY,73228,"Wednesday, May 12, 2021","Monday, August 29, 2022",31,24,Loss,0,8,2,7,9
+321,25,male,Asian,Some College,NJ,73161,"Thursday, February 4, 2021","Thursday, October 13, 2022",24,54,Dispute,0,8,5,5,14
+322,30,female,Black,Some College,NJ,77283,"Saturday, February 13, 2021","Sunday, May 29, 2022",35,15,Unspecified,0,7,1,5,14
+323,20,female,White,Bachelors,NJ,104603,"Sunday, February 7, 2021","Sunday, November 13, 2022",12,31,Unspecified,0,8,1,2,11
+324,,male,Black,Some College,NJ,76385,"Friday, September 3, 2021","Sunday, September 11, 2022",24,68,Loss,0,7,5,1,4
+325,36,unspecified,Black,High School Diploma,NJ,35962,"Monday, May 3, 2021","Saturday, June 25, 2022",27,43,Unspecified,0,9,5,7,9
+326,37,female,White,Bachelors,NJ,60193,"Tuesday, April 13, 2021","Tuesday, October 4, 2022",10,34,Unspecified,0,6,1,7,9
+327,40,female,Asian,Some High School,NJ,54918,"Monday, April 5, 2021","Saturday, May 28, 2022",27,37,,0,8,7,3,7
+328,37,female,Hispanic,Masters,CT,99527,"Friday, June 18, 2021","Wednesday, June 15, 2022",32,76,Dispute,0,6,3,7,9
+329,39,female,Black,Some High School,CT,59621,"Sunday, October 24, 2021","Thursday, May 12, 2022",4,105,Dispute,0,6,4,2,11
+330,28,male,Hispanic,Associates,NJ,43256,"Wednesday, November 3, 2021","Sunday, March 27, 2022",34,59,Loss,0,10,4,2,11
+331,25,male,Asian,Associates,NJ,43787,"Friday, February 19, 2021","Tuesday, November 8, 2022",34,87,Unspecified,0,7,2,7,9
+332,27,female,Hispanic,Some College,NJ,83172,"Wednesday, October 6, 2021","Sunday, June 19, 2022",23,93,Loss,0,10,2,5,14
+333,21,male,Asian,Some High School,NY,44884,"Saturday, October 2, 2021","Thursday, May 5, 2022",30,70,Dispute,0,7,4,1,4
+334,30,male,Asian,Masters,NJ,112878,"Wednesday, March 10, 2021","Saturday, September 3, 2022",6,85,Loss,0,7,7,7,9
+335,24,male,White,Bachelors,NJ,123497,"Wednesday, May 19, 2021","Tuesday, August 2, 2022",9,114,Dispute,0,10,3,1,4
+336,22,male,Black,Bachelors,CT,55954,"Saturday, October 30, 2021","Sunday, March 20, 2022",21,119,Dispute,0,7,3,3,7
+337,47,female,Black,Some College,NY,83368,"Sunday, January 17, 2021","Wednesday, May 25, 2022",31,101,Dispute,0,8,7,1,4
+338,49,female,Hispanic,Associates,NJ,47725,"Wednesday, November 10, 2021","Wednesday, January 26, 2022",33,40,Unspecified,0,8,1,5,14
+339,44,male,Hispanic,Masters,NJ,87712,"Sunday, May 23, 2021","Monday, February 7, 2022",23,89,Financial,0,10,7,4,20
+340,42,female,Black,Bachelors,CT,99970,"Thursday, April 29, 2021","Monday, July 25, 2022",35,90,Dispute,0,8,6,3,7
+341,43,male,White,Bachelors,NY,76362,"Wednesday, November 3, 2021","Friday, March 25, 2022",14,71,Dispute,0,8,6,7,9
+342,44,male,Black,Associates,NJ,55167,"Sunday, September 12, 2021","Wednesday, November 23, 2022",28,27,Financial,0,8,1,7,9
+343,48,unspecified,White,Associates,NY,65480,"Saturday, November 13, 2021","Thursday, October 27, 2022",29,96,Unspecified,0,9,4,3,7
+344,44,male,Hispanic,Some High School,NJ,58250,"Thursday, September 30, 2021","Monday, May 23, 2022",34,116,Dispute,0,8,5,3,7
+345,45,,Hispanic,Associates,CT,53011,"Sunday, December 19, 2021","Thursday, May 19, 2022",22,32,Financial,0,9,6,4,20
+346,29,male,Black,Associates,NY,73617,"Monday, December 20, 2021","Sunday, July 31, 2022",24,18,Loss,1,6,4,5,14
+347,33,nonbiry,Black,Bachelors,NY,79906,"Sunday, January 24, 2021","Wednesday, January 12, 2022",20,101,Unspecified,0,7,3,2,11
+348,34,male,Hispanic,Some College,NJ,62543,"Saturday, May 1, 2021","Saturday, March 12, 2022",20,120,Loss,0,8,2,3,7
+349,34,female,White,Some College,NJ,64493,"Tuesday, April 20, 2021","Thursday, September 8, 2022",15,76,Dispute,0,8,7,4,20
+350,30,female,White,Some High School,NJ,59820,"Friday, November 5, 2021","Friday, October 7, 2022",11,69,Financial,0,9,4,7,9
+351,32,male,Asian,High School Diploma,NJ,38791,"Thursday, July 1, 2021","Tuesday, May 3, 2022",8,125,Dispute,0,8,4,3,7
+352,33,female,Black,Associates,NY,74012,"Tuesday, September 14, 2021","Saturday, October 29, 2022",29,69,Dispute,0,6,3,3,7
+353,40,female,White,Some College,NJ,72697,"Sunday, November 14, 2021","Friday, September 16, 2022",25,23,Financial,0,6,1,2,11
+354,36,female,Black,Masters,NJ,135308,"Monday, January 18, 2021","Wednesday, April 27, 2022",15,104,Loss,0,9,3,4,20
+355,27,male,White,Associates,NY,69540,"Friday, November 5, 2021","Wednesday, January 19, 2022",18,74,Dispute,0,7,7,4,20
+356,34,female,Asian,Bachelors,NJ,117698,"Sunday, May 16, 2021","Sunday, August 14, 2022",22,24,Loss,0,7,7,6,2
+357,32,female,White,High School Diploma,NJ,42769,"Monday, May 10, 2021","Monday, November 7, 2022",34,45,Unspecified,0,10,2,7,9
+358,28,female,Black,Some College,CT,47118,"Monday, May 24, 2021","Tuesday, February 15, 2022",35,111,Dispute,0,10,5,6,2
+359,24,male,Hispanic,Bachelors,NY,81822,"Saturday, October 23, 2021","Tuesday, January 4, 2022",22,106,Unspecified,0,10,7,2,11
+360,29,,Indigenous,Some High School,NJ,49186,"Saturday, April 17, 2021","Friday, June 24, 2022",32,50,Dispute,0,6,5,1,4
+361,36,male,White,High School Diploma,NJ,35600,"Friday, January 22, 2021","Thursday, October 13, 2022",8,27,Loss,0,7,6,4,20
+362,21,male,Hispanic,Bachelors,NJ,65729,"Sunday, May 30, 2021","Thursday, November 10, 2022",20,93,Unspecified,0,9,2,6,2
+363,27,male,Asian,Some College,NJ,70105,"Tuesday, February 9, 2021","Saturday, September 24, 2022",27,21,Unspecified,0,10,6,3,7
+364,32,male,Black,Bachelors,NY,68592,"Sunday, July 25, 2021","Sunday, May 15, 2022",16,44,Dispute,0,6,1,1,4
+365,26,female,Hispanic,Bachelors,NJ,112848,"Thursday, February 4, 2021","Tuesday, September 6, 2022",3,104,Dispute,0,10,2,4,20
+366,45,male,White,Some High School,NY,34430,"Saturday, July 3, 2021","Wednesday, September 14, 2022",5,116,Loss,0,10,7,7,9
+367,34,female,Hispanic,Bachelors,NJ,48711,"Friday, December 10, 2021","Monday, February 28, 2022",32,51,Unspecified,0,6,6,2,11
+368,38,,White,Bachelors,NJ,50050,"Monday, June 21, 2021","Wednesday, August 17, 2022",35,39,Dispute,1,10,1,6,2
+369,26,female,White,Some College,NJ,73384,"Saturday, August 14, 2021","Tuesday, March 29, 2022",22,87,Dispute,0,9,3,3,7
+370,35,female,Asian,Bachelors,NJ,57749,"Wednesday, April 14, 2021","Thursday, July 21, 2022",18,98,Loss,0,6,6,7,9
+371,29,male,White,Some High School,NJ,39815,"Thursday, September 23, 2021","Thursday, July 28, 2022",34,20,Loss,0,10,7,6,2
+372,25,female,White,Bachelors,CT,97512,"Thursday, August 19, 2021","Tuesday, May 24, 2022",34,85,Loss,1,8,1,1,4
+373,36,male,White,Bachelors,NJ,90312,"Sunday, April 4, 2021","Sunday, April 24, 2022",27,47,Dispute,0,6,2,1,4
+374,31,female,Black,Bachelors,NY,80915,"Friday, April 23, 2021","Thursday, October 13, 2022",35,72,Loss,0,9,3,4,20
+375,36,female,White,Masters,NY,117259,"Sunday, September 12, 2021","Sunday, October 2, 2022",29,119,Financial,0,8,6,2,11
+376,36,female,Black,Some High School,NY,36170,"Monday, February 22, 2021","Monday, February 21, 2022",30,30,,0,8,7,7,9
+377,35,female,White,Masters,CT,79349,"Wednesday, October 27, 2021","Wednesday, April 27, 2022",11,23,Dispute,0,6,3,5,14
+378,26,male,Asian,Some High School,NJ,62781,"Saturday, June 5, 2021","Sunday, January 30, 2022",23,124,Financial,0,7,7,5,14
+379,24,female,Hispanic,High School Diploma,NJ,58957,"Tuesday, November 2, 2021","Monday, June 20, 2022",35,104,Financial,0,7,3,1,4
+380,37,female,Hispanic,,NY,39237,"Monday, August 9, 2021","Wednesday, February 2, 2022",10,114,Dispute,0,10,2,5,14
+381,34,male,Asian,Associates,,76731,"Saturday, March 6, 2021","Monday, April 25, 2022",13,18,Financial,0,6,7,2,11
+382,27,female,White,High School Diploma,NY,33085,"Friday, November 19, 2021","Monday, June 27, 2022",31,94,Unspecified,0,6,2,1,4
+383,25,,White,Associates,NY,86171,"Wednesday, September 29, 2021","Monday, October 24, 2022",35,91,Loss,0,7,3,2,11
+384,31,male,Hispanic,Bachelors,NJ,65977,"Wednesday, December 1, 2021","Tuesday, October 18, 2022",8,42,Loss,0,9,4,1,4
+385,31,male,White,Associates,CT,77795,"Tuesday, April 6, 2021","Tuesday, May 17, 2022",6,27,Loss,0,8,5,3,7
+386,26,nonbiry,Hispanic,Bachelors,NJ,81853,"Monday, June 14, 2021","Friday, October 21, 2022",2,76,Financial,0,6,7,1,4
+387,23,nonbiry,Asian,Bachelors,CT,62363,"Sunday, August 8, 2021","Wednesday, September 7, 2022",4,54,Loss,1,8,1,6,2
+388,29,female,Black,Associates,NJ,46644,"Saturday, April 3, 2021","Friday, September 30, 2022",15,56,Dispute,0,10,1,6,2
+389,31,female,Black,High School Diploma,CT,,"Saturday, November 27, 2021","Thursday, December 15, 2022",15,113,Financial,0,8,4,6,2
+390,23,female,Black,Masters,NY,67230,"Sunday, August 8, 2021","Thursday, May 12, 2022",19,50,Financial,0,7,4,3,7
+391,45,female,White,Masters,NJ,128867,"Tuesday, August 31, 2021","Saturday, December 10, 2022",19,119,Financial,0,10,5,7,9
+392,35,female,White,Associates,NJ,81546,"Monday, January 11, 2021","Saturday, July 30, 2022",10,85,Dispute,0,7,6,6,2
+393,36,male,Black,Some College,CT,61809,"Thursday, September 9, 2021","Wednesday, April 20, 2022",34,79,Loss,0,6,2,6,2
+394,28,male,White,Bachelors,NY,81674,"Monday, May 10, 2021","Thursday, October 6, 2022",21,117,Financial,0,6,5,1,4
+395,40,female,Asian,Some College,NJ,50379,"Wednesday, February 17, 2021","Friday, October 14, 2022",9,106,Dispute,0,6,7,1,4
+396,27,male,White,Some College,NY,75465,"Saturday, April 24, 2021","Wednesday, July 6, 2022",8,40,Financial,0,8,3,5,14
+397,22,male,Hispanic,Bachelors,NY,102424,"Monday, August 30, 2021","Thursday, May 26, 2022",13,24,Dispute,0,6,5,4,20
+398,20,male,Hispanic,Associates,CT,45468,"Thursday, January 21, 2021","Sunday, September 11, 2022",31,63,Dispute,0,6,3,5,14
+399,33,female,Black,Bachelors,CT,62287,"Saturday, May 1, 2021","Tuesday, October 11, 2022",29,39,Unspecified,0,10,6,6,2
+400,28,female,Asian,Some College,NJ,77620,"Saturday, June 26, 2021","Sunday, November 20, 2022",16,110,Dispute,1,6,4,3,7
+401,26,female,White,Some College,NY,42251,"Monday, October 4, 2021","Tuesday, March 29, 2022",33,88,Financial,0,7,4,6,2
+402,33,female,Hispanic,High School Diploma,NY,35697,"Thursday, April 15, 2021","Thursday, May 5, 2022",12,59,Unspecified,0,6,1,3,7
+403,36,female,Asian,Some College,NY,89701,"Saturday, January 9, 2021","Thursday, June 30, 2022",10,90,Loss,0,9,3,7,9
+404,31,transwomen,White,Some College,NY,61232,"Saturday, November 6, 2021","Friday, July 1, 2022",35,48,Financial,0,7,7,2,11
+405,37,male,Asian,Masters,NJ,102723,"Saturday, October 2, 2021","Monday, August 1, 2022",31,70,Dispute,0,7,1,5,14
+406,24,male,Asian,Bachelors,NY,90949,"Saturday, April 3, 2021","Friday, February 11, 2022",35,89,Unspecified,0,9,2,5,14
+407,33,male,Asian,Some College,NJ,63765,"Sunday, October 17, 2021","Tuesday, October 11, 2022",7,120,Unspecified,0,7,5,2,11
+408,26,female,Asian,Bachelors,CT,108654,"Wednesday, August 4, 2021","Tuesday, March 8, 2022",24,23,Financial,0,9,5,3,7
+409,29,male,White,Some College,NY,75248,"Wednesday, November 17, 2021","Monday, October 3, 2022",11,17,Dispute,0,7,2,4,20
+410,29,female,Asian,Associates,NY,67160,"Sunday, October 10, 2021","Thursday, September 29, 2022",18,32,Loss,0,6,1,7,9
+411,21,female,White,Some College,NJ,67490,"Thursday, January 7, 2021","Saturday, January 29, 2022",7,51,Unspecified,0,10,7,3,7
+412,27,female,Asian,Some College,NJ,71930,"Monday, December 6, 2021","Monday, October 3, 2022",25,51,Financial,0,7,4,1,4
+413,29,female,Asian,Masters,NJ,121346,"Wednesday, May 12, 2021","Sunday, February 27, 2022",13,80,Dispute,1,7,7,4,20
+414,31,male,White,Some High School,NJ,61456,"Friday, April 2, 2021","Friday, March 11, 2022",18,44,Dispute,0,6,5,7,9
+415,30,female,White,Bachelors,NJ,75855,"Monday, March 22, 2021","Sunday, March 13, 2022",11,70,Financial,0,7,2,6,2
+416,24,male,White,Some College,CT,79819,"Monday, August 16, 2021","Friday, October 7, 2022",13,125,Dispute,0,7,1,6,2
+417,35,male,White,Some High School,NY,37065,"Sunday, March 28, 2021","Friday, November 25, 2022",20,61,Loss,0,10,7,4,20
+418,,male,Hispanic,Masters,NJ,108791,"Tuesday, October 26, 2021","Thursday, December 8, 2022",28,72,Financial,0,10,6,4,20
+419,31,female,White,Bachelors,NJ,72497,"Thursday, May 6, 2021","Sunday, October 30, 2022",35,95,Financial,0,9,2,3,7
+420,37,male,White,Bachelors,CT,73500,"Friday, July 2, 2021","Monday, January 24, 2022",2,94,Unspecified,0,6,2,4,20
+421,28,female,Black,Masters,NY,127772,"Monday, March 29, 2021","Wednesday, June 29, 2022",10,87,Financial,0,9,3,6,2
+422,40,female,White,Masters,NJ,70905,"Monday, June 14, 2021","Monday, August 29, 2022",17,115,Financial,0,6,6,6,2
+423,25,female,White,Masters,NY,89811,"Monday, June 28, 2021","Sunday, January 23, 2022",29,60,Dispute,0,7,1,2,11
+424,21,female,Hispanic,Some College,NY,50830,"Thursday, September 16, 2021","Tuesday, June 28, 2022",35,74,Loss,0,10,3,4,20
+425,34,male,Asian,Associates,CT,72060,"Thursday, May 6, 2021","Monday, January 17, 2022",8,25,Dispute,0,7,5,2,11
+426,28,male,White,Bachelors,CT,90202,"Friday, July 23, 2021","Thursday, July 7, 2022",29,111,Unspecified,1,7,2,6,2
+427,26,male,Hispanic,High School Diploma,NJ,40401,"Saturday, March 13, 2021","Tuesday, January 11, 2022",3,69,Dispute,0,8,4,1,4
+428,42,male,Asian,Associates,NY,57466,"Thursday, April 1, 2021","Saturday, June 25, 2022",16,27,Financial,0,10,2,5,14
+429,36,female,White,Some College,NY,65847,"Tuesday, June 1, 2021","Thursday, March 3, 2022",12,99,Financial,0,9,2,5,14
+430,26,nonbiry,Black,Bachelors,NY,72815,"Saturday, October 2, 2021","Wednesday, September 28, 2022",34,57,Financial,0,7,1,7,9
+431,49,female,White,Some College,NJ,46958,"Sunday, February 7, 2021","Friday, November 4, 2022",22,80,Unspecified,0,9,1,3,7
+432,22,female,White,Bachelors,NY,123016,"Tuesday, November 9, 2021","Saturday, July 9, 2022",27,42,Dispute,0,9,4,6,2
+433,24,female,Black,Masters,NY,126073,"Friday, May 14, 2021","Saturday, October 29, 2022",6,64,Unspecified,0,8,5,3,7
+434,38,female,Asian,Masters,NJ,141432,"Tuesday, August 24, 2021","Saturday, October 22, 2022",4,46,Unspecified,0,6,3,2,11
+435,29,female,Asian,Bachelors,NJ,52137,"Friday, February 26, 2021","Wednesday, November 30, 2022",22,72,Financial,0,8,4,2,11
+436,43,female,Hispanic,Bachelors,NJ,85006,"Saturday, April 10, 2021","Thursday, June 23, 2022",18,87,Unspecified,0,10,7,5,14
+437,36,male,White,Masters,NJ,131849,"Sunday, January 3, 2021","Friday, October 14, 2022",12,24,Dispute,0,8,5,3,7
+438,31,male,Hispanic,Associates,NJ,41785,"Sunday, December 5, 2021","Tuesday, July 12, 2022",21,100,Financial,0,9,3,2,11
+439,44,female,White,Some College,NJ,69869,"Monday, November 22, 2021","Monday, July 11, 2022",33,109,Unspecified,0,6,5,5,14
+440,47,male,Black,Some College,NJ,75142,"Saturday, November 20, 2021","Wednesday, July 6, 2022",35,59,Loss,0,8,7,7,9
+441,25,male,Asian,Some College,CT,63408,"Thursday, August 5, 2021","Friday, October 7, 2022",25,38,Financial,0,8,4,6,2
+442,38,female,White,Bachelors,CT,124088,"Friday, December 3, 2021","Thursday, June 23, 2022",3,90,Unspecified,1,9,5,6,2
+443,49,male,White,Bachelors,NJ,73406,"Tuesday, April 6, 2021","Thursday, November 3, 2022",7,90,,0,6,2,4,20
+444,39,nonbiry,Hispanic,,NJ,115721,"Saturday, March 20, 2021","Wednesday, March 30, 2022",24,114,Dispute,0,10,7,1,4
+445,39,unspecified,Hispanic,Bachelors,NJ,100842,"Thursday, July 29, 2021","Sunday, January 23, 2022",2,33,Dispute,0,10,4,5,14
+446,23,male,Black,Bachelors,NJ,94709,"Tuesday, December 14, 2021","Thursday, September 22, 2022",22,94,Dispute,0,6,1,7,9
+447,33,female,Asian,Bachelors,NY,120685,"Friday, June 25, 2021","Sunday, March 20, 2022",33,106,Dispute,0,7,5,6,2
+448,23,male,Hispanic,Bachelors,NY,89142,"Friday, December 17, 2021","Wednesday, January 26, 2022",14,80,Unspecified,0,8,5,4,20
+449,26,male,Asian,Bachelors,NY,102471,"Friday, September 3, 2021","Tuesday, September 13, 2022",22,20,Dispute,0,10,5,6,2
+450,39,male,White,Bachelors,NJ,49489,"Saturday, September 11, 2021","Friday, September 30, 2022",14,87,Financial,0,8,7,5,14
+451,44,male,Black,Bachelors,NY,103126,"Monday, June 14, 2021","Thursday, June 16, 2022",22,72,Unspecified,0,8,4,7,9
+452,19,female,White,Associates,NY,46001,"Sunday, October 10, 2021","Wednesday, November 16, 2022",4,28,Dispute,0,6,4,3,7
+453,28,female,Asian,Some College,NJ,65659,"Friday, May 14, 2021","Thursday, March 17, 2022",7,123,Financial,0,10,5,4,20
+454,21,male,Asian,Some College,NJ,63846,"Friday, January 22, 2021","Saturday, March 19, 2022",21,16,Financial,0,6,2,5,14
+455,22,female,Black,Some College,NJ,87062,"Friday, July 9, 2021","Saturday, January 15, 2022",11,99,Financial,0,9,1,3,7
+456,33,male,Hispanic,Bachelors,NJ,85258,"Monday, November 8, 2021","Saturday, April 2, 2022",5,29,Unspecified,0,9,2,1,4
+457,36,male,Black,Associates,NJ,85012,"Tuesday, April 20, 2021","Saturday, April 30, 2022",12,43,Financial,0,9,4,1,4
+458,19,female,Asian,Some High School,CT,43478,"Sunday, June 6, 2021","Friday, March 18, 2022",23,91,Financial,0,10,5,6,2
+459,32,female,Hispanic,Masters,CT,80329,"Friday, August 20, 2021","Sunday, June 19, 2022",16,40,Dispute,0,7,1,5,14
+460,30,female,Asian,Bachelors,NJ,115604,"Thursday, December 16, 2021","Wednesday, February 23, 2022",31,51,Financial,0,6,5,2,11
+461,24,female,White,Some College,NJ,68541,"Monday, April 26, 2021","Sunday, October 2, 2022",4,58,Unspecified,0,9,4,6,2
+462,29,female,Black,Masters,NJ,106087,"Thursday, July 15, 2021","Sunday, May 22, 2022",31,20,Dispute,0,10,2,1,4
+463,23,male,White,Bachelors,NJ,85010,"Sunday, October 24, 2021","Sunday, October 2, 2022",16,84,Unspecified,0,8,4,6,2
+464,42,male,Asian,Some College,NY,86917,"Thursday, November 25, 2021","Tuesday, May 10, 2022",19,91,Dispute,0,8,7,2,11
+465,24,female,Black,Some High School,NY,60976,"Friday, December 10, 2021","Sunday, November 13, 2022",17,86,Dispute,0,6,3,2,11
+466,43,male,Hispanic,High School Diploma,NY,35077,"Saturday, December 11, 2021","Thursday, November 24, 2022",25,17,Unspecified,0,9,2,4,20
+467,31,male,Hispanic,Bachelors,NJ,99228,"Friday, June 18, 2021","Monday, October 17, 2022",20,123,Financial,0,8,3,3,7
+468,32,female,Hispanic,Masters,NJ,128551,"Friday, May 7, 2021","Sunday, March 27, 2022",13,96,Loss,0,8,5,1,4
+469,31,male,Black,Some College,NJ,40934,"Tuesday, April 13, 2021","Tuesday, June 28, 2022",4,23,Loss,0,8,2,2,11
+470,35,nonbiry,Hispanic,Some College,,59253,"Thursday, June 17, 2021","Saturday, June 25, 2022",9,53,Dispute,1,7,5,4,20
+471,33,unspecified,White,High School Diploma,NY,37720,"Friday, April 30, 2021","Sunday, November 20, 2022",4,101,Financial,0,9,2,3,7
+472,36,male,White,Masters,NJ,76469,"Sunday, February 14, 2021","Friday, July 15, 2022",30,75,Unspecified,0,8,1,1,4
+473,29,female,Black,Associates,NJ,47326,"Saturday, February 20, 2021","Tuesday, October 18, 2022",4,48,Loss,0,7,7,2,11
+474,19,male,White,Bachelors,CT,110769,"Monday, February 15, 2021","Saturday, October 8, 2022",4,87,Dispute,0,10,5,4,20
+475,44,male,White,Associates,NY,81859,"Saturday, August 21, 2021","Tuesday, November 15, 2022",18,18,Unspecified,0,8,1,3,7
+476,40,male,Hispanic,Masters,NJ,148042,"Wednesday, December 8, 2021","Saturday, May 14, 2022",15,19,Financial,1,8,1,4,20
+477,22,male,Black,Bachelors,NY,106124,"Sunday, September 26, 2021","Monday, March 14, 2022",21,30,Loss,0,6,6,4,20
+478,27,female,White,Some College,NJ,66203,"Thursday, January 28, 2021","Friday, March 4, 2022",16,35,Financial,0,7,4,4,20
+479,48,male,Black,Bachelors,CT,65286,"Thursday, August 12, 2021","Wednesday, June 8, 2022",10,123,Loss,0,10,1,1,4
+480,34,unspecified,White,Associates,NY,67271,"Wednesday, October 20, 2021","Monday, November 14, 2022",5,69,Financial,0,7,4,6,2
+481,22,male,Black,Some High School,NY,40177,"Thursday, September 9, 2021","Wednesday, September 21, 2022",30,88,Financial,0,7,3,4,20
+482,44,female,Hispanic,Some High School,NY,38867,"Sunday, September 12, 2021","Monday, December 12, 2022",27,54,Financial,1,10,4,2,11
+483,32,male,Hispanic,Some College,NY,,"Sunday, May 30, 2021","Monday, April 18, 2022",21,69,Unspecified,0,6,5,6,2
+484,29,male,Hispanic,Associates,NY,76070,"Sunday, October 17, 2021","Friday, January 14, 2022",2,88,Financial,1,10,3,4,20
+485,38,male,White,Bachelors,NY,79084,"Thursday, October 21, 2021","Sunday, November 6, 2022",31,25,Financial,0,9,7,3,7
+486,45,male,White,Some College,NY,80513,"Wednesday, July 21, 2021","Wednesday, May 11, 2022",35,85,Loss,0,7,5,1,4
+487,42,female,Black,Associates,NY,50997,"Sunday, January 24, 2021","Wednesday, June 8, 2022",28,74,Financial,0,6,2,2,11
+488,27,female,White,Associates,NY,80348,"Wednesday, October 20, 2021","Sunday, September 18, 2022",14,63,Loss,0,6,4,4,20
+489,21,female,Asian,High School Diploma,CT,37368,"Saturday, October 9, 2021","Wednesday, March 30, 2022",23,28,Unspecified,0,7,6,2,11
+490,27,male,White,High School Diploma,NY,59582,"Sunday, April 4, 2021","Thursday, July 14, 2022",16,37,Financial,0,7,1,2,11
+491,36,male,Asian,Masters,NJ,96370,"Monday, April 5, 2021","Monday, June 13, 2022",34,33,Unspecified,0,7,7,3,7
+492,37,female,Hispanic,High School Diploma,NJ,36052,"Saturday, January 16, 2021","Wednesday, December 7, 2022",29,115,Unspecified,0,8,5,5,14
+493,29,male,White,Bachelors,NY,74833,"Saturday, January 30, 2021","Friday, March 25, 2022",16,37,Dispute,1,7,4,3,7
+494,30,female,Black,Bachelors,NY,,"Friday, June 11, 2021","Tuesday, September 27, 2022",2,24,Unspecified,0,8,5,1,4
+495,48,male,Asian,High School Diploma,NY,49203,"Tuesday, April 27, 2021","Sunday, February 27, 2022",13,70,Dispute,0,9,6,3,7
+496,,male,Asian,,,,"Tuesday, May 18, 2021","Friday, August 12, 2022",25,51,Unspecified,0,7,5,4,20
+497,42,female,Hispanic,Associates,NJ,87954,"Friday, October 1, 2021","Sunday, September 18, 2022",23,33,Dispute,0,10,4,5,14
+498,48,male,Black,Bachelors,CT,105713,"Saturday, May 1, 2021","Tuesday, January 25, 2022",31,58,Financial,0,8,3,3,7
+499,28,female,Black,Associates,NJ,80689,"Friday, April 9, 2021","Tuesday, March 1, 2022",25,107,Unspecified,0,6,1,2,11
+500,40,female,Asian,High School Diploma,NJ,49371,"Monday, January 18, 2021","Sunday, October 23, 2022",32,68,Unspecified,0,6,7,6,2
